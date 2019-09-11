@@ -1,5 +1,5 @@
 <table>
-  <caption><strong><center>android 카메라 연동하기</caption>
+  <caption style="text-align:center"><strong>android 카메라 연동하기</caption>
   <thead>
     <tr>
       <th></th>

@@ -1,9 +1,25 @@
+<head>
+  
+<style type="text/css">
+  table,td{
+  border:1px solid red
+  }
+  table{
+    width:60%;
+    height:100px;
+    margin: auto;
+    text-align:center;
+  }
+  
+</style>
+</head>
+<body>
 <table>
   <caption><strong>android 카메라 연동하기</caption>
   <thead>
     <tr>
       <th></th>
-      <th>출처</th>
+      <th>소스 출처</th>
     </tr>
   </thead>
   <tbody>
@@ -20,6 +36,6 @@
       <td>https://developers.google.com/</td>
     </tr>  
   </tbody>
-  
-  
 </table>
+
+</body>

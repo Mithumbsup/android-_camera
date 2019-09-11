@@ -1,21 +1,5 @@
-<head>
-  
-<style type="text/css">
-  table,td{
-  border:1px solid red
-  }
-  table{
-    width:60%;
-    height:100px;
-    margin: auto;
-    text-align:center;
-  }
-  
-</style>
-</head>
-<body>
 <table>
-  <caption><strong>android 카메라 연동하기</caption>
+  <caption><strong><center>android 카메라 연동하기</caption>
   <thead>
     <tr>
       <th></th>
@@ -37,5 +21,3 @@
     </tr>  
   </tbody>
 </table>
-
-</body>
